@@ -1,0 +1,10 @@
+(librepcb_library 0474b0dd-2547-491e-ae71-85f4df2f055d
+ (name "Honeywell")
+ (description "")
+ (keywords "")
+ (author "Luz")
+ (version "0.1")
+ (created 2020-07-12T17:10:01Z)
+ (deprecated false)
+ (url "")
+)
